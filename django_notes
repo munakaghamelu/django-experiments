@@ -1,0 +1,6 @@
+# activate virutal env
+source django-env/bin/activate
+
+# start web server
+python manage.py runserver
+
